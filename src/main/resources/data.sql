@@ -1,0 +1,18 @@
+INSERT INTO talk (id, name, duration) VALUES (1, 'Overdoing it in Python', 45);
+INSERT INTO talk (id, name, duration) VALUES (2, 'Lua for the Masses', 30);
+INSERT INTO talk (id, name, duration) VALUES (3, 'Writing Fast Tests Against Enterprise Rails', 60);
+INSERT INTO talk (id, name, duration) VALUES (4, 'Ruby Errors from Mismatched Gem Versions', 45);
+INSERT INTO talk (id, name, duration) VALUES (5, 'Common Ruby Errors', 45);
+INSERT INTO talk (id, name, duration) VALUES (6, 'Rails for Python Developers lightning Communicating Over Distance', 60);
+INSERT INTO talk (id, name, duration) VALUES (7, 'Accounting-Driven Development', 45);
+INSERT INTO talk (id, name, duration) VALUES (8, 'Woah', 30);
+INSERT INTO talk (id, name, duration) VALUES (9, 'Sit Down and Write', 30);
+INSERT INTO talk (id, name, duration) VALUES (10, 'Pair Programing vs Noise', 45);
+INSERT INTO talk (id, name, duration) VALUES (11, 'Rails Magic', 60);
+INSERT INTO talk (id, name, duration) VALUES (12, 'Ruby on Rails: Why We Should Move On', 60);
+INSERT INTO talk (id, name, duration) VALUES (13, 'Clojure Ate Scala (on my project)', 45);
+INSERT INTO talk (id, name, duration) VALUES (14, 'Program);g in the Boondocks of Seattle', 30);
+INSERT INTO talk (id, name, duration) VALUES (15, 'Ruby vs. Clojure for Back-End Development', 30);
+INSERT INTO talk (id, name, duration) VALUES (16, 'Ruby on Rails Legacy App Maintenance', 60);
+INSERT INTO talk (id, name, duration) VALUES (17, 'A World Without HackerNews', 30);
+INSERT INTO talk (id, name, duration) VALUES (18, 'User Interface CSS in Rails Apps', 30);
